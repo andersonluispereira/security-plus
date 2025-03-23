@@ -1,2 +1,2 @@
-# security-
-Personal notes on security+ topics
+# security plus
+Personal notes on security+ topics.
